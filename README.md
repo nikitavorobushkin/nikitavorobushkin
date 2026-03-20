@@ -1,16 +1,52 @@
-## Hi there 👋
+# 👋 Привет, я Никита
 
-<!--
-**nikitavorobushkin/nikitavorobushkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer (React / TypeScript)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 О себе
+
+- 3 года коммерческого опыта
+- Разработка SPA и SSR приложений
+- Люблю чистую архитектуру и оптимизацию
+
+---
+
+## 🛠️ Стек
+
+- JavaScript / TypeScript
+- React / Next.js
+- Zustand
+- Vite / Webpack
+- PostCSS / БЭМ
+- Jest / Testing Library
+
+---
+
+## 💼 Проекты
+
+### 🍕 Dodo Pizza Clone
+E-commerce приложение
+
+- NextJS (Parallel Routes, Group Routes, Server Actions, API)
+- TypeScript
+- TailwindCSS + ShadCN
+- Prisma + PostgreSQL
+- NextAuth
+- React Hook Form + Zod
+- Zustand
+- react-use
+- nextjs-toploader
+- react-hot-toast
+- react-insta-stories
+- lucide-react
+- Resend
+
+👉 https://github.com/nikitavorobushkin/dodo-pizza-clone
+
+---
+
+## 📫 Контакты
+
+- Telegram: https://t.me/vorobushkin_dev
+- Email: n.vorobushkin@yandex.com
