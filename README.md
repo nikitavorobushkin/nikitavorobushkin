@@ -42,7 +42,7 @@ E-commerce приложение
 - Zustand (глобальное состояние)  
 
 **Скриншоты:**  
-![Главная страница](./images/dodo-home.png) ![Корзина](./images/dodo-cart.png) ![Конструктор пиццы](./images/dodo-constructor.png)  
+![Главная страница](assets/images/dodo-home.png) ![Корзина](assets/images/dodo-cart.png) ![Конструктор пиццы](assets/images/dodo-constructor.png)  
 
 **Стек:** Next.js, TypeScript, TailwindCSS, ShadCN, Prisma, PostgreSQL  
 
@@ -59,7 +59,7 @@ E-commerce приложение
 - Работа с интерактивными UI-элементами  
 
 **Скриншоты:**  
-![Главная страница](./images/streamvibe-home.png) ![Список фильмов](./images/streamvibe-movies.png) ![Карточка фильма](./images/streamvibe-card.png)  
+![Главная страница](assets/images/streamvibe-home.png) ![Страница каталога фильмов](assets/images/streamvibe-movies.png) ![Страница фильма](assets/images/streamvibe-card.png)  
 
 **Стек:** HTML, Minista(JSX), SCSS, JavaScript, IMDbApi  
 
