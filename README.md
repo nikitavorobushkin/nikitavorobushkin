@@ -43,9 +43,9 @@ E-commerce приложение
 
 **Скриншоты:**  
 <p>
-  <img src="assets/images/dodo-home.png" width="400" />
-  <img src="assets/images/dodo-cart.png" width="400" />
-  <img src="assets/images/dodo-constructor.png" width="400" />
+  <img src="assets/images/dodo-home.png" width="500" />
+  <img src="assets/images/dodo-constructor.png" width="500" />
+   <img src="assets/images/dodo-cart.png" width="500" />
 </p> 
 
 **Стек:** Next.js, TypeScript, TailwindCSS, ShadCN, Prisma, PostgreSQL  
