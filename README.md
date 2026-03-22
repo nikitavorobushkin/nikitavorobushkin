@@ -31,7 +31,7 @@
 ### 💼 Проекты
 
 #### 🍕 Dodo Pizza Clone
-E-commerce приложение (production-like)
+E-commerce приложение
 
 - SSR / Server Actions / API Routes (Next.js)  
 - Работа с базой данных (Prisma + PostgreSQL)  
@@ -42,38 +42,15 @@ E-commerce приложение (production-like)
 - Zustand (глобальное состояние)  
 
 **Скриншоты:**  
-![Главная страница](./images/dodo-home.png) ![Корзина](./images/dodo-cart.png) ![Конфигуратор](./images/dodo-configurator.png)  
+![Главная страница](./images/dodo-home.png) ![Корзина](./images/dodo-cart.png) ![Конструктор пиццы](./images/dodo-constructor.png)  
 
 **Стек:** Next.js, TypeScript, TailwindCSS, ShadCN, Prisma, PostgreSQL  
 
-👉 [Ссылка на репозиторий](https://github.com/nikitavorobushkin/dodo-pizza-clone)  
-
----
-
-#### 🍔 Space Burger (SPA)
-Многостраничное SPA-приложение на React с пользовательскими сценариями
-
-- Регистрация и авторизация пользователей  
-- Работа с API (получение и отправка данных)  
-- Управление состоянием (Zustand / Redux)  
-- Реализация бизнес-логики:
-  - корзина
-  - конфигуратор бургеров
-  - фильтрация и работа с данными  
-- Клиентская маршрутизация (React Router)  
-- Оптимизация рендера компонентов  
-
-**Скриншоты:**  
-![Главная страница](./images/spaceburger-home.png) ![Конфигуратор](./images/spaceburger-configurator.png) ![Корзина](./images/spaceburger-cart.png)  
-
-**Стек:** React, TypeScript, Zustand / Redux Toolkit, React Router  
-
-👉 [Ссылка на репозиторий](#)  
-
+👉 [Ссылка на репозиторий]([https://github.com/nikitavorobushkin/dodo-pizza-clone])  
 ---
 
 #### 🎨 Stream Vibe — сервис просмотра кино (UI / верстка)
-Проект для демонстрации навыков frontend-верстки
+Проект для демонстрации навыков верстки
 
 - Адаптивная и кроссбраузерная верстка  
 - Компонентный подход (JSX)  
