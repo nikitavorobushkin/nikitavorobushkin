@@ -42,7 +42,11 @@ E-commerce приложение
 - Zustand (глобальное состояние)  
 
 **Скриншоты:**  
-![Главная страница](assets/images/dodo-home.png) ![Корзина](assets/images/dodo-cart.png) ![Конструктор пиццы](assets/images/dodo-constructor.png)  
+<p>
+  <img src="assets/images/dodo-home.png" width="300" />
+  <img src="assets/images/dodo-cart.png" width="300" />
+  <img src="assets/images/dodo-constructor.png" width="300" />
+</p> 
 
 **Стек:** Next.js, TypeScript, TailwindCSS, ShadCN, Prisma, PostgreSQL  
 
@@ -59,11 +63,15 @@ E-commerce приложение
 - Работа с интерактивными UI-элементами  
 
 **Скриншоты:**  
-![Главная страница](assets/images/streamvibe-home.png) ![Страница каталога фильмов](assets/images/streamvibe-movies.png) ![Страница фильма](assets/images/streamvibe-card.png)  
+<p>
+  <img src="assets/images/streamvibe-home.png" width="300" />
+  <img src="assets/images/streamvibe-movies.png" width="300" />
+  <img src="assets/images/streamvibe-card.png" width="300" />
+</p>
 
 **Стек:** HTML, Minista(JSX), SCSS, JavaScript, IMDbApi  
 
-👉 [Ссылка на репозиторий](#)  
+👉 [Ссылка на репозиторий]([https://github.com/nikitavorobushkin/stream-vibe])  
 
 ## 📫 Контакты
 
