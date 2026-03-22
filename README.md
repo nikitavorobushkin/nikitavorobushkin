@@ -66,7 +66,7 @@ E-commerce приложение
 <p>
   <img src="assets/images/streamvibe-home.png" width="300" />
   <img src="assets/images/streamvibe-movies.png" width="300" />
-  <img src="assets/images/streamvibe-card.png" width="300" />
+  <img src="assets/images/streamvibe-card.png" width="200" />
 </p>
 
 **Стек:** HTML, Minista(JSX), SCSS, JavaScript, IMDbApi  
