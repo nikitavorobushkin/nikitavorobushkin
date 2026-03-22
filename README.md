@@ -50,7 +50,7 @@ E-commerce приложение
 
 **Стек:** Next.js, TypeScript, TailwindCSS, ShadCN, Prisma, PostgreSQL  
 
-👉 [Ссылка на репозиторий]([https://github.com/nikitavorobushkin/dodo-pizza-clone])  
+👉 [Ссылка на репозиторий](https://github.com/nikitavorobushkin/dodo-pizza-clone)  
 
 ---
 
