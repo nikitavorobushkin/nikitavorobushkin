@@ -51,6 +51,7 @@ E-commerce приложение
 **Стек:** Next.js, TypeScript, TailwindCSS, ShadCN, Prisma, PostgreSQL  
 
 👉 [Ссылка на репозиторий]([https://github.com/nikitavorobushkin/dodo-pizza-clone])  
+
 ---
 
 #### 🎨 Stream Vibe — сервис просмотра кино (UI / верстка)
@@ -67,11 +68,11 @@ E-commerce приложение
   <img src="assets/images/streamvibe-home.png" width="300" />
   <img src="assets/images/streamvibe-movies.png" width="300" />
 </p>
-<img src="assets/images/streamvibe-card.png" width="400" />
+<img src="assets/images/streamvibe-card.png" width="500" />
 
 **Стек:** HTML, Minista(JSX), SCSS, JavaScript, IMDbApi  
 
-👉 [Ссылка на репозиторий]([https://github.com/nikitavorobushkin/stream-vibe])  
+👉 [Ссылка на репозиторий](https://github.com/nikitavorobushkin/stream-vibe)
 
 ## 📫 Контакты
 
